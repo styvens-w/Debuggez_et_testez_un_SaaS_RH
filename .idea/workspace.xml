@@ -1,119 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c0ff9ec-a897-45d7-ad47-c08d3c2bdc0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/config/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/controllers/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/controllers/bill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/controllers/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/database_dev.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/middlewares/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/migrations/20211104111744-create-user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/migrations/20211104120303-create-bill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/models/bill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/models/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/public/4b392f446047ced066990b0627cfa444" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/public/4e39a57e62fe2e091341fe7aabb5d376" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/public/85026075b4d16cccb1a23011251f5c81" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/public/976fbc50929ab2852a517ff682c603f5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/public/f8021afdeed2f9305e7120ae3af43383" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/routes/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/routes/bill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/routes/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/services/jwt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/services/jwt.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/services/password.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/services/password.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/tests/app.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/tests/auth.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/tests/bill.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/tests/fixture-cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/tests/fixture-cat.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/tests/fixtures.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/tests/user.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Back/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/.live-server.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/babel.config.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/setup-jest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__mocks__/localStorage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__mocks__/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/Actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/Bills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/DashboardFormUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/ErrorPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/LoadingPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/Logout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/NewBill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/VerticalLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/__tests__/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/app/Router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/app/Store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/app/datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/app/format.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/images/facturefreemobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/arrow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/big_billed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/disconnect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/download_blue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/download_white.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/euro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/eye_blue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/eye_white.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/mail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/pct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/assets/svg/window.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/constants/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/constants/usersTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/containers/Bills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/containers/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/containers/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/containers/Logout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/containers/NewBill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/actions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/bills.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/dashboardForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/loading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/css/newbill.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/fixtures/bills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/Actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/BillsUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/DashboardFormUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/DashboardUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/ErrorPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/LoadingPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/LoginUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/NewBillUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/src/views/VerticalLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Billed-app-FR-Front/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debuggez_et_testez_un_SaaS_RH.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="4c0ff9ec-a897-45d7-ad47-c08d3c2bdc0b" name="Changes" comment="projet terminer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Billed-app-FR-Back/database_dev.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Billed-app-FR-Back/database_dev.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,9 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2UTySNaqro3jeficdGAEKGQXcT2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -150,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/styve/IDEAProject/Les-petits-plats/data",
+    "last_opened_file_path": "C:/Users/styve/IDEAProject/laplancheavinsv2",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
@@ -174,11 +67,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692977863245</updated>
-      <workItem from="1692977864258" duration="477000" />
+      <workItem from="1692977864258" duration="546000" />
+      <workItem from="1692978551534" duration="5945000" />
+      <workItem from="1694072634705" duration="11000" />
     </task>
+    <task id="LOCAL-00001" summary="projet terminer">
+      <option name="closed" value="true" />
+      <created>1692978386673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692978386673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projet terminer" />
+    <option name="LAST_COMMIT_MESSAGE" value="projet terminer" />
   </component>
 </project>
